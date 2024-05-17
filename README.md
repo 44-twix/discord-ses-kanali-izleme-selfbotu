@@ -8,12 +8,12 @@ Bu depo, belirli bir ses kanalını izleyen ve çeşitli özellikler sunan bir D
 - Belirtilen ses kanalının adını, kimliğini ve üye sayısını görüntüler.
 - Kolay izleme için net ve basit bir konsol çıktısı sağlar.
 
-## Proje Yapısı
+## Proje İçeriği
 
 - `index.js`
 - `package.json`
 - `package-lock.json`
-- `node_modules`
+- `config.json`
 
 ## Kurulum
 
