@@ -4,8 +4,8 @@ Bu depo, belirli bir ses kanalını izleyen ve çeşitli özellikler sunan bir D
 
 ## Önemli Özellikler
 
-- Belirtilen ses kanalına bağlanır ve kanalda geçirilen süreyi günlüğe kaydeder.
-- Belirtilen ses kanalının adını, kimliğini ve üye sayısını görüntüler.
+- Belirtilen ses kanalına bağlanır ve kanalda geçirilen süreyi konsolda canlı olarak gösterir.
+- Belirtilen ses kanalının adını, idsini ve üye sayısını görüntüler.
 - Kolay izleme için net ve basit bir konsol çıktısı sağlar.
 
 ## Proje İçeriği
