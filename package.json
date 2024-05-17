@@ -1,10 +1,26 @@
 {
-  "dependencies": {
-    "@discordjs/voice": "^0.17.0",
-    "colors": "^1.4.0",
-    "discord.js-selfbot-v13": "^3.1.4"
-  },
+  "name": "discord-ses-kanali-izleme-selfbotu",
+  "version": "1.0.0",
+  "description": "Discord ses kanallarını izlemek ve her kanalda geçirilen zamanı günlüğe kaydetmek için bir selfbot.",
+  "main": "index.js",
   "scripts": {
-    "start": "node ."
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/44-twix/discord-ses-kanali-izleme-selfbotu.git"
+  },
+  "author": {
+    "name": "Twix",
+    "discord": "craendyl",
+    "url": "https://cheatglobal.com/members/twixx.64436/"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.1.4",
+    "@discordjs/voice": "^0.17.0",
+    "colors": "^1.4.0"
   }
 }
+
+
